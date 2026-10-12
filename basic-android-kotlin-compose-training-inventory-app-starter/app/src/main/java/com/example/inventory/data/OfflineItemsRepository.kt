@@ -16,7 +16,6 @@
 
 package com.example.inventory.data
 
-import ItemDao
 import kotlinx.coroutines.flow.Flow
 
 class OfflineItemsRepository(private val itemDao: ItemDao)

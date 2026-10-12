@@ -1,6 +1,5 @@
 package com.example.inventory.data
 
-import ItemDao
 import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
